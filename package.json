@@ -1,5 +1,5 @@
 {
-  "name": "www.appveyor.com",
+  "name": "appveyor",
   "private": true,
   "version": "1.0.0",
   "author": "AppVeyor (https://github.com/appveyor)",
